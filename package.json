@@ -1,0 +1,12 @@
+{
+	"name": "candyisgood",
+	"description": "CHANGE DESCRIPTION!!!!!!!!!",
+	"author": "dylanksys",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylanksys/candyisgood"
+	},
+	"dependencies": {
+		"express": "4.13.4"
+	}
+}
